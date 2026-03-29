@@ -1,0 +1,5 @@
+
+
+// make sure to run npm i 
+
+and thn run the server by writing : nodemon server.js
